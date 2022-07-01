@@ -1,2 +1,2 @@
 # SSILC
-Scoring Safety Index for Lane Changing
+Scoring Safety Index of Lane Changing
